@@ -1,3 +1,4 @@
 {
-    "tailwindCSS.lint.invalidApply": "warning"
+    "tailwindCSS.lint.invalidApply": "warning",
+    "workbench.iconTheme": "vscode-icons"
 }
